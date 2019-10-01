@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberts, C. | Home</title>
+    <link>https://pshekhar-tufts.github.io/authors/roberts-c./</link>
+      <atom:link href="https://pshekhar-tufts.github.io/authors/roberts-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberts, C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 10:42:29 -0400</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>Roberts, C.</title>
+      <link>https://pshekhar-tufts.github.io/authors/roberts-c./</link>
+    </image>
+    
+    <item>
+      <title>ALPS: A framework for modeling time series of land ice changes</title>
+      <link>https://pshekhar-tufts.github.io/publication/my-publication1/</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/my-publication1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

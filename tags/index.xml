@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Home</title>
+    <link>https://pshekhar-tufts.github.io/tags/</link>
+      <atom:link href="https://pshekhar-tufts.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://pshekhar-tufts.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Approximation theory</title>
+      <link>https://pshekhar-tufts.github.io/tags/approximation-theory/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/approximation-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data reduction</title>
+      <link>https://pshekhar-tufts.github.io/tags/data-reduction/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/data-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glaciology</title>
+      <link>https://pshekhar-tufts.github.io/tags/glaciology/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/glaciology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel computing</title>
+      <link>https://pshekhar-tufts.github.io/tags/parallel-computing/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RBFs</title>
+      <link>https://pshekhar-tufts.github.io/tags/rbfs/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/rbfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Sensing</title>
+      <link>https://pshekhar-tufts.github.io/tags/remote-sensing/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse modeling</title>
+      <link>https://pshekhar-tufts.github.io/tags/sparse-modeling/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/sparse-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splines</title>
+      <link>https://pshekhar-tufts.github.io/tags/splines/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/splines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://pshekhar-tufts.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

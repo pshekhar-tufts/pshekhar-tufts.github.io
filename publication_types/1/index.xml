@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Home</title>
+    <link>https://pshekhar-tufts.github.io/publication_types/1/</link>
+      <atom:link href="https://pshekhar-tufts.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://pshekhar-tufts.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale and Multiresolution methods for Sparse representation of Large datasets.</title>
+      <link>https://pshekhar-tufts.github.io/publication/conference-paper/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel methods for sparse representation of topographical data.</title>
+      <link>https://pshekhar-tufts.github.io/publication/my-publication3/</link>
+      <pubDate>Thu, 29 Sep 2016 10:42:36 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/my-publication3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection in Complex Spatiotemporal Networks Through Location Aware Geospatial Big Data Sets.</title>
+      <link>https://pshekhar-tufts.github.io/publication/journal-article/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

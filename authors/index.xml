@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Home</title>
+    <link>https://pshekhar-tufts.github.io/authors/</link>
+      <atom:link href="https://pshekhar-tufts.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 10:42:29 -0400</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://pshekhar-tufts.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Csatho, B.</title>
+      <link>https://pshekhar-tufts.github.io/authors/csatho-b./</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/csatho-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patra, A.</title>
+      <link>https://pshekhar-tufts.github.io/authors/patra-a./</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/patra-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberts, C.</title>
+      <link>https://pshekhar-tufts.github.io/authors/roberts-c./</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/roberts-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schenk, T.</title>
+      <link>https://pshekhar-tufts.github.io/authors/schenk-t./</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/schenk-t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shekhar, P.</title>
+      <link>https://pshekhar-tufts.github.io/authors/shekhar-p./</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/shekhar-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pshekhar-tufts.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Prashant. Currently I am a postdoc at Tufts University&amp;rsquo;s Data Intensive Studies Center (DISC), working with &lt;a href=&#34;https://engineering.tufts.edu/people/faculty/abani-patra&#34; target=&#34;_blank&#34;&gt;Dr. Abani Patra &lt;/a&gt;. Currently, my work mainly focusses on learning hierarchical sparse representations for large datasets enabling faster inference. I am interested in using machine learning and physics to understand evolution of large cryospheric systems like polar icesheets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stefanescu, ER.</title>
+      <link>https://pshekhar-tufts.github.io/authors/stefanescu-er./</link>
+      <pubDate>Thu, 29 Sep 2016 10:42:36 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/stefanescu-er./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rai, R.</title>
+      <link>https://pshekhar-tufts.github.io/authors/rai-r./</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/rai-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chan, FTS.</title>
+      <link>https://pshekhar-tufts.github.io/authors/chan-fts./</link>
+      <pubDate>Mon, 29 Sep 2014 10:42:33 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/chan-fts./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiwari, MK.</title>
+      <link>https://pshekhar-tufts.github.io/authors/tiwari-mk./</link>
+      <pubDate>Mon, 29 Sep 2014 10:42:33 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/authors/tiwari-mk./</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

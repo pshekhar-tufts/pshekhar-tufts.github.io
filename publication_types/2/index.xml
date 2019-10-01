@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Home</title>
+    <link>https://pshekhar-tufts.github.io/publication_types/2/</link>
+      <atom:link href="https://pshekhar-tufts.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2014 10:42:33 -0400</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://pshekhar-tufts.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic scheduling of oil tankers with splitting of cargo at pickup and delivery locations: a Multi-objective Ant Colony-based approach.</title>
+      <link>https://pshekhar-tufts.github.io/publication/my-publication2/</link>
+      <pubDate>Mon, 29 Sep 2014 10:42:33 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/my-publication2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

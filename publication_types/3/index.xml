@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Home</title>
+    <link>https://pshekhar-tufts.github.io/publication_types/3/</link>
+      <atom:link href="https://pshekhar-tufts.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 10:42:29 -0400</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://pshekhar-tufts.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>ALPS: A framework for modeling time series of land ice changes</title>
+      <link>https://pshekhar-tufts.github.io/publication/my-publication1/</link>
+      <pubDate>Sun, 29 Sep 2019 10:42:29 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/my-publication1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical regularization networks for sparsification based learning on noisy datasets.</title>
+      <link>https://pshekhar-tufts.github.io/publication/my-publication/</link>
+      <pubDate>Sun, 29 Sep 2019 10:29:16 -0400</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/my-publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Data Reduction and Learning</title>
+      <link>https://pshekhar-tufts.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data reduction | Home</title>
+    <link>https://pshekhar-tufts.github.io/tags/data-reduction/</link>
+      <atom:link href="https://pshekhar-tufts.github.io/tags/data-reduction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data reduction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>Data reduction</title>
+      <link>https://pshekhar-tufts.github.io/tags/data-reduction/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Machine Learning</title>
+      <link>https://pshekhar-tufts.github.io/project/external-project/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;In this research we proposes a hierarchical learning strategy for generation of sparse representations which capture the information content in large datasets and act as a model. The hierarchy arises from the approximation spaces considered at successively finer data dependent scales. We present a detailed analysis of stability, convergence and behavior of error functionals associated with the approximations and well chosen set of applications. Results show the performance of the approach as a data reduction mechanism on both synthetic (univariate and multivariate) and real datasets (geo-spatial, computer vision and numerical model outcomes). The sparse model generated is shown to efficiently reconstruct data and minimize error in prediction.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

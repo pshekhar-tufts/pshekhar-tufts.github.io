@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rai, R. | Home</title>
+    <link>https://pshekhar-tufts.github.io/authors/rai-r./</link>
+      <atom:link href="https://pshekhar-tufts.github.io/authors/rai-r./index.xml" rel="self" type="application/rss+xml" />
+    <description>Rai, R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pshekhar-tufts.github.io/img/icon-192.png</url>
+      <title>Rai, R.</title>
+      <link>https://pshekhar-tufts.github.io/authors/rai-r./</link>
+    </image>
+    
+    <item>
+      <title>Anomaly Detection in Complex Spatiotemporal Networks Through Location Aware Geospatial Big Data Sets.</title>
+      <link>https://pshekhar-tufts.github.io/publication/journal-article/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pshekhar-tufts.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
